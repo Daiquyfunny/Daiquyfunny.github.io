@@ -1,15 +1,13 @@
 .dan {
     border: 2px solid black;
     border-radius: 25px;
-    height: 200px;
-    weight: 200px;
+    size: 200px;
   }
   
   .glasses {
     border: 2px solid black;
     border-radius: 25px;
-    height: 150px;
-    weight: 150px;
+    size: 150;
   }
   
   .Web {
