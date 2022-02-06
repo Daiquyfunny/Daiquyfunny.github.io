@@ -1,0 +1,58 @@
+.dan {
+     border: 5px solid black;
+     border-radius: 25px;
+     height: 500px;
+     weight: 500px;
+   }
+   
+   .glasses {
+     border: 2px solid black;
+     border-radius: 25px;
+     height: 150px;
+     weight: 150px;
+   }
+   
+   .Web {
+     text-shadow: 2px 2px 5px green;
+     font-family: Helvetica, sans-serif
+   }
+   
+   .aboutt {
+     font-family: Arial, sans-serif;
+     text-shadow: 2px 2px green;
+   }
+
+   .about {
+     font-family: Arial, sans-serif;
+     font-size: large;
+   }
+
+   .projectst {
+     font-family: Arial, sans-serif;
+     text-shadow: 2px 2px green;
+   }
+
+   .projects {
+     font-family: Arial, sans-serif;
+     font-size: large;
+   }
+
+   .accountst {
+     font-family: Arial, sans-serif;
+     text-shadow: 2px 2px green;
+   }
+
+   .accounts {
+     font-family: Arial, sans-serif;
+     font-size: large;
+   }
+
+   .accn {
+     font-family: Arial, sans-serif;
+     font-size: large;
+   }
+
+   .glassest {
+     text-shadow: 2px 2px 15px green;
+     font-family: Arial, sans-serif;
+   }
